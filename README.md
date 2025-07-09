@@ -1,4 +1,4 @@
-![微信图片_20250709172103](https://github.com/user-attachments/assets/ac7ce392-ea8e-488c-ad7f-cc1662117c09)![微信截图_20250630171913](https://github.com/user-attachments/assets/096aa6eb-e743-42a8-8394-edc19db88d87)# 无人机管控系统
+# 无人机管控系统
 
 #### 介绍
 公司有整套商业版无人机管控系统源码出售， **需要演示环境和方案PPT，可加V：gzzw1131** 
