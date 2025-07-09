@@ -1,4 +1,4 @@
-# 无人机管控系统
+![微信图片_20250709172103](https://github.com/user-attachments/assets/ac7ce392-ea8e-488c-ad7f-cc1662117c09)![微信截图_20250630171913](https://github.com/user-attachments/assets/096aa6eb-e743-42a8-8394-edc19db88d87)# 无人机管控系统
 
 #### 介绍
 公司有整套商业版无人机管控系统源码出售， **需要演示环境和方案PPT，可加V：gzzw1131** 
@@ -61,12 +61,11 @@
 
 
 ##### 演示视频
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250630171845.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250630171817.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250630171745.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250630171913.png)
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20250630171955.png)
-
+![微信截图_20250630171745](https://github.com/user-attachments/assets/516d4af7-9131-46db-8c17-3bed44d9e7cd)
+![微信截图_20250630171817](https://github.com/user-attachments/assets/e758d1e9-8864-4dcb-ae21-e869f3f71bcf)
+![Uploading 微信截图_20250630171845.png…]()
 ##### 联系方式
-![输入图片说明](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250709172103.jpg)
+![微信图片_20250709172103](https://github.com/user-attachments/assets/54014f0a-012b-41ff-aa47-2913124403cc)
+
+
 
